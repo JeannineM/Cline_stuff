@@ -5,4 +5,3 @@ We are using general lineralized models to fit clines to allele frequency change
 - minimum straight distances to 2D cline
 - cline fitting
 - functions to subset the clines dynamically
-- making plots to explore the predicted clines
